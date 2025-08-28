@@ -84,7 +84,7 @@ Contacte-moi via GitHub discussions ou LinkedIn (profil visible sur la page d’
 
 ### 🛰️ _N’hésitez pas à me lancer une mission – je suis prête à rejoindre la guilde !_
 
-<p align="center"> <strong> Always may the code be with you ! 😉 </strong> </p>
+<p align="center"> <strong> May the code be with you ! 😉 </strong> </p>
 
 </details>
 
@@ -176,6 +176,6 @@ Feel free to reach out through GitHub discussions or LinkedIn.
 
 ### 🛰️ _Feel free to launch a mission — I’m ready to join the guild !_
 
-<p align="center"> <strong> Always may the code be with you ! 😉 </strong> </p>
+<p align="center"> <strong> Always, may the code be with you ! 😉 </strong> </p>
 
 </details>
