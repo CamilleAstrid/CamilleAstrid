@@ -24,7 +24,7 @@ Je suis Camille-Astrid RODRIGUES, étudiante en master de bioinformatique passio
 * **fr.univ‑tlse3_ADM_project**  
 🌱 Étude statistique de l’impact de l’urbanisation sur les oiseaux endémiques de Guadeloupe avec des méthodes multivariées en R. Écologie, stats et code réunis !
 
->ℹ️ INFO
+>ℹ️
 >Retrouver l'ensemble des projets ci-dessous :
 >* [fr.univ-tlse3.Datamining_Ecological_impacts_of_pet_cats](https://github.com/CamilleAstrid/fr.univ-tlse3.Datamining_Ecological_impacts_of_pet_cats)
 >* [Annotation_du_genome_de_Lactococcus_lactis](https://github.com/CamilleAstrid/Annotation_du_genome_de_Lactococcus_lactis)
@@ -116,7 +116,7 @@ I'm Camille-Astrid RODRIGUES, a bioinformatics master's student passionate about
 * **fr.univ‑tlse3_ADM_project**  
 🌱 Statistical analysis of urbanization impact on endemic birds in Guadeloupe, using multivariate methods in R. Ecology, stats, and code united !
 
->ℹ️ INFO
+>ℹ️
 >Explore all the projects here:
 >* [Datamining_Ecological_impacts_of_pet_cats](https://github.com/CamilleAstrid/fr.univ-tlse3.Datamining_Ecological_impacts_of_pet_cats)
 >* [Annotation_du_genome_de_Lactococcus_lactis](https://github.com/CamilleAstrid/Annotation_du_genome_de_Lactococcus_lactis)
